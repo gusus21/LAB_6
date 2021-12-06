@@ -1,0 +1,16 @@
+D:\проекти VS\MTZKIT\MTZKIT\bin\Debug\net5.0\MTZKIT.exe
+D:\проекти VS\MTZKIT\MTZKIT\bin\Debug\net5.0\MTZKIT.deps.json
+D:\проекти VS\MTZKIT\MTZKIT\bin\Debug\net5.0\MTZKIT.runtimeconfig.json
+D:\проекти VS\MTZKIT\MTZKIT\bin\Debug\net5.0\MTZKIT.runtimeconfig.dev.json
+D:\проекти VS\MTZKIT\MTZKIT\bin\Debug\net5.0\MTZKIT.dll
+D:\проекти VS\MTZKIT\MTZKIT\bin\Debug\net5.0\ref\MTZKIT.dll
+D:\проекти VS\MTZKIT\MTZKIT\bin\Debug\net5.0\MTZKIT.pdb
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.csproj.AssemblyReference.cache
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.AssemblyInfoInputs.cache
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.AssemblyInfo.cs
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.csproj.CoreCompileInputs.cache
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.dll
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\ref\MTZKIT.dll
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.pdb
+D:\проекти VS\MTZKIT\MTZKIT\obj\Debug\net5.0\MTZKIT.genruntimeconfig.cache
