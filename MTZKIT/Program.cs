@@ -6,7 +6,10 @@ namespace MTZKIT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x = 20;
+            int y = 15;
+            Console.WriteLine(x*y - x + y);
+            Console.ReadLine();
         }
     }
 }
